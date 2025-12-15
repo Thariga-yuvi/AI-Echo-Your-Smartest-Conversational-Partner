@@ -1,0 +1,16 @@
+Streamlit
+pandas
+numpy
+Regex
+spacy
+matplotlib
+seaborn
+wordcloud
+langdetect
+spacy
+scikit-learn
+joblib
+imblearn
+textblob
+contractions
+xgboost
